@@ -1,0 +1,14 @@
+..\Output\ip_arp_udp_tcp.o: ip_arp_udp_tcp.c
+..\Output\ip_arp_udp_tcp.o: ip_arp_udp_tcp.h
+..\Output\ip_arp_udp_tcp.o: enc28j60.h
+..\Output\ip_arp_udp_tcp.o: ..\CMSIS\stm32f10x.h
+..\Output\ip_arp_udp_tcp.o: ..\CMSIS\core_cm3.h
+..\Output\ip_arp_udp_tcp.o: d:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\Output\ip_arp_udp_tcp.o: ..\CMSIS\system_stm32f10x.h
+..\Output\ip_arp_udp_tcp.o: ..\USER\stm32f10x_conf.h
+..\Output\ip_arp_udp_tcp.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\ip_arp_udp_tcp.o: ..\CMSIS\stm32f10x.h
+..\Output\ip_arp_udp_tcp.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\ip_arp_udp_tcp.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\ip_arp_udp_tcp.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\ip_arp_udp_tcp.o: net.h

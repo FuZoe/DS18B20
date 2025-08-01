@@ -1,0 +1,16 @@
+..\Output\simple_server.o: simple_server.c
+..\Output\simple_server.o: enc28j60.h
+..\Output\simple_server.o: ..\CMSIS\stm32f10x.h
+..\Output\simple_server.o: ..\CMSIS\core_cm3.h
+..\Output\simple_server.o: C:\Keil\ARM\RV31\INC\stdint.h
+..\Output\simple_server.o: ..\CMSIS\system_stm32f10x.h
+..\Output\simple_server.o: ..\USER\stm32f10x_conf.h
+..\Output\simple_server.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\simple_server.o: ..\CMSIS\stm32f10x.h
+..\Output\simple_server.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\simple_server.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\simple_server.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\simple_server.o: ip_arp_udp_tcp.h
+..\Output\simple_server.o: net.h
+..\Output\simple_server.o: simple_server.h
+..\Output\simple_server.o: C:\Keil\ARM\RV31\INC\string.h

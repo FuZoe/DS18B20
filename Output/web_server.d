@@ -1,0 +1,17 @@
+..\Output\web_server.o: web_server.c
+..\Output\web_server.o: enc28j60.h
+..\Output\web_server.o: ..\CMSIS\stm32f10x.h
+..\Output\web_server.o: ..\CMSIS\core_cm3.h
+..\Output\web_server.o: d:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\Output\web_server.o: ..\CMSIS\system_stm32f10x.h
+..\Output\web_server.o: ..\USER\stm32f10x_conf.h
+..\Output\web_server.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\web_server.o: ..\CMSIS\stm32f10x.h
+..\Output\web_server.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\web_server.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\web_server.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\web_server.o: ip_arp_udp_tcp.h
+..\Output\web_server.o: net.h
+..\Output\web_server.o: web_server.h
+..\Output\web_server.o: d:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\Output\web_server.o: led.h
